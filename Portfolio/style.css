@@ -257,19 +257,6 @@ h4 {
     object-fit: cover;
 }
 
-/* .image-container .p-one { */
-    /* width: 200px; */
-    /* object-fit: cover; */
-/* } */
-
-/* .p-three {
-    background: url('project.png');
-}
-
-.p-four {
-    background: url('project.png');
-} */
-
 .projects-item {
     overflow: hidden;
     width: 20rem;
@@ -289,33 +276,6 @@ h4 {
     line-height: 20px;
     font-size: .9rem;
 }
-
-
-
-/* Contact me Section */
-/* .form {
-    display: flex;
-    width: 80%;
-    padding: 0 2rem;
-    margin: auto;
-    justify-content: center;
-    align-items: center;
-}
-
-.form-div input,
-textarea {
-    border: 2px solid rgba(77, 181, 255, .4);
-    border-radius: .5rem;
-    width: 100%;
-    margin: 0.5rem 0rem;
-    font-size: .9rem;
-    background: transparent;
-    margin: 0.5rem 0rem;
-    padding: 0.5rem 1rem;
-    color: white;
-    resize: none;
-} */
-
 
 
 /* Footer Section  */
