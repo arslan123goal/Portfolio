@@ -129,3 +129,29 @@
 .test-item img {
     width: 50%;
 }
+@media only screen and (max-width: 500px) {
+    .html{
+        width: 100%;
+    }
+    .css{
+        width: 90%;
+    }
+    .js{
+        width: 85%;
+    }
+    .tailwind{
+        width: 50%;
+    }
+    .reactjs{
+        width: 40%;
+    }
+    .nodejs{
+        width: 60%;
+    }
+    .expressjs{
+        width: 60%;
+    }
+    .mongodb{
+        width: 50%;
+    }
+}
